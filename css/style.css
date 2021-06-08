@@ -1,0 +1,11 @@
+.container {
+  width: 50%;
+  height: 400px;
+  background-color: rgb(96, 126, 223);
+  margin: 0 auto;
+}
+.row {
+  align-items: center;
+  text-align: center;
+  background-color: rgb(96, 126, 223);
+}
